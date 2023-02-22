@@ -2,5 +2,7 @@
 /wsdl2phpgenerator*.phar
 /vendor/
 TAG_MESSAGE
+composer.lock
+.idea/
 /.phpunit.result.cache
 /.php_cs.cache
